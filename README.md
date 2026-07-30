@@ -1,16 +1,52 @@
-## Hi there 👋
+# ¡Hola! Soy Eduardo 👋
 
-<!--
-**ERosalesFinelli/ERosalesFinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Miguel Hernández (UMH), a punto de entrar en 3º de carrera. Me apasiona todo lo relacionado con el análisis de datos y el machine learning, y este verano lo estoy aprovechando para seguir formándome y construir proyectos aplicados.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente construyendo mi portfolio de proyectos de análisis de datos y ML
+- 🌱 Ampliando conocimientos en Machine Learning, Deep Learning e IA Generativa
+- 💬 Pregúntame sobre Python, R, SQL, o análisis de datos aplicado a negocio y deporte
+- 📫 Puedes contactarme por [LinkedIn](www.linkedin.com/in/eduardo-rosales-finelli)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+### ⚽ Análisis de datos del Real Madrid – Etapa Arbeloa
+Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo Álvaro Arbeloa.
+`Próximamente enlace al repositorio`
+
+### 🇵🇭 Consumo e ingreso de las familias filipinas
+Análisis estadístico sobre patrones de consumo e ingresos familiares en Filipinas, con modelos lineales aplicados.
+`Próximamente enlace al repositorio`
+
+---
+
+## 🎓 Certificaciones
+
+**Machine Learning e IA**
+- Machine Learning for Data Science Projects — *IBM SkillsBuild*
+- Introducción a la Ciencia de Datos — *Santander Open Academy / IE University*
+- IA Generativa — *Santander Open Academy / MIT Professional Education*
+- AI Fundamentals — *udia*
+
+**DataCamp**
+- Understanding Artificial Intelligence · Understanding Machine Learning · AI Ethics
+- Generative AI Concepts · LLMs Concepts · Understanding Prompt Engineering
+- Introduction to ChatGPT · Intermediate ChatGPT · Working with the OpenAI API
+- Generative AI for Business · Implementing AI Solutions in Business · Monetizing Artificial Intelligence
+- Introduction to Python · Introduction to R · Intermediate R · Introduction to SQL
+
+---
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 Actividad en GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=default)
