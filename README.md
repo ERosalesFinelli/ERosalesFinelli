@@ -12,11 +12,11 @@ Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Migue
 ## 🚀 Proyectos destacados
 
 ### ⚽ Análisis de datos del Real Madrid – Etapa Arbeloa
-Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo Álvaro Arbeloa.
+Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo Álvaro Arbeloa, estudio de jugadores, disparos, partidos...
 `Próximamente enlace al repositorio`
 
-### 🇵🇭 Consumo e ingreso de las familias filipinas
-Análisis estadístico sobre patrones de consumo e ingresos familiares en Filipinas, con modelos lineales aplicados.
+### 🇵🇭 Determinantes del Consumo en Filipinas: Modelización y Recomendaciones
+Creación de un Modelo de Predicción del Gasto Familiar fundamentado en la Teoría General de Keynes. Con el objetivo de proporcionar al Gobierno filipino una herramienta de simulación que permita entender cuánto varía el gasto de las familias según sus ingresos, evaluar el impacto de las variables no monetarias, y actuar como guía en la toma de decisiones. 
 `Próximamente enlace al repositorio`
 
 ---
