@@ -5,7 +5,7 @@ Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Migue
 - 🔭 Actualmente construyendo mi portfolio de proyectos de análisis de datos y ML
 - 🌱 Ampliando conocimientos en Machine Learning, Deep Learning e IA Generativa
 - 💬 Pregúntame sobre Python, R, SQL, o análisis de datos aplicado a negocio y deporte
-- 📫 Puedes contactarme por [LinkedIn](www.linkedin.com/in/eduardo-rosales-finelli)
+- 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/eduardo-rosales-finelli)
 
 ---
 
