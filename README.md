@@ -17,7 +17,8 @@ Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo 
 
 ### 🇵🇭 Determinantes del Consumo en Filipinas: Modelización y Recomendaciones
 Creación de un Modelo de Predicción del Gasto Familiar fundamentado en la Teoría General de Keynes. Con el objetivo de proporcionar al Gobierno filipino una herramienta de simulación que permita entender cuánto varía el gasto de las familias según sus ingresos, evaluar el impacto de las variables no monetarias, y actuar como guía en la toma de decisiones. 
-🔗 [Repositorio](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)
+
+🔗[Repositorio](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)
 
 ---
 
