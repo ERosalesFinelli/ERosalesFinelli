@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eduardo 👋
 
-Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Miguel Hernández (UMH), a punto de entrar en 3º de carrera. Me apasiona todo lo relacionado con el análisis de datos y el machine learning, y este verano lo estoy aprovechando para seguir formándome y construir proyectos aplicados.
+Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Miguel Hernández (UMH), en 3º año de carrera. Me apasiona todo lo relacionado con el análisis de datos y el machine learning, y este verano lo estoy aprovechando para seguir formándome y construir proyectos aplicados.
 
 - 🔭 Actualmente construyendo mi portfolio de proyectos de análisis de datos y ML
 - 🌱 Ampliando conocimientos en Machine Learning, Deep Learning e IA Generativa
