@@ -54,9 +54,7 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 
 <br>
 
-### 📊 Estadísticas de GitHub
 
-<!-- El servicio público de github-readme-stats se satura muy a menudo (rate limit compartido) y por eso salían los cuadros rotos. Sustituye "TU-DOMINIO" por la URL de tu propia instancia — instrucciones abajo. --> <div align="center"> <img height="165" src="https://TU-DOMINIO.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=transparent&hide_border=true&hide=prs" /> <img height="165" src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=ERosalesFinelli&layout=compact&theme=transparent&hide_border=true" /> </div> <br>
 
 ### 🎓 Formación
 
