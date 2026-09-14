@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header" width="100%"/>
-
-<h1>Eduardo Rosales Finelli</h1>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Java" />
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=30&duration=2800&pause=1200&color=E5E7EB&background=0F2027&center=true&vCenter=true&width=700&height=160&lines=Eduardo+Rosales+Finelli;Data+Science+%26+Artificial+Intelligence;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Java" width="100%"/>
 
 </div>
 
@@ -60,9 +56,11 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 
 ### 📊 Estadísticas de GitHub
 
+<!-- El servicio público de github-readme-stats se satura muy a menudo (rate limit compartido) y por eso salían los cuadros rotos. Sustituye "TU-DOMINIO" por la URL de tu propia instancia — instrucciones abajo. -->
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=transparent&hide_border=true&hide=prs" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERosalesFinelli&layout=compact&theme=transparent&hide_border=true" />
+<img height="165" src="https://TU-DOMINIO.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=transparent&hide_border=true&hide=prs" />
+<img height="165" src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=ERosalesFinelli&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <br>
