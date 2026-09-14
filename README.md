@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Eduardo%20Rosales%20Finelli&fontSize=40&fontColor=ffffff&desc=Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header" width="100%"/>
+
+<h1>Eduardo Rosales Finelli</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Java" />
 
 </div>
 
@@ -50,6 +54,15 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
+<br>
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=transparent&hide_border=true&hide=prs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERosalesFinelli&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <br>
