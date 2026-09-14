@@ -1,3 +1,6 @@
+<img width="971" height="243" alt="image" src="https://github.com/user-attachments/assets/4b59e21f-fff2-49ff-8a0f-0aa7076a9e5e" />
+
+
 # ¡Hola! Soy Eduardo 👋
 
 Estudiante de **Data Science e Inteligencia Artificial** en la Universidad Miguel Hernández (UMH), en 3º año de carrera. Me apasiona todo lo relacionado con el análisis de datos y el machine learning, y este verano lo estoy aprovechando para seguir formándome y construir proyectos aplicados.
