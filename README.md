@@ -17,10 +17,10 @@ Estudiante de 3º de **Data Science e Inteligencia Artificial** en la Universida
 
 ### 🚀 Proyectos destacados
 
-**[Análisis de datos del Real Madrid — Etapa Arbeloa](enlace-al-repositorio)**
+**[Análisis de datos del Real Madrid — Etapa Arbeloa](https://github.com/ERosalesFinelli/RM-Arbeloa_Shiny)**
 Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo Álvaro Arbeloa: análisis de jugadores, disparos y partidos.
 
-**[Determinantes del Consumo en Filipinas: Modelización y Recomendaciones](enlace-al-repositorio)**
+**[Determinantes del Consumo en Filipinas: Modelización y Recomendaciones](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**
 Modelo de predicción del gasto familiar fundamentado en la Teoría General de Keynes, orientado a apoyar al Gobierno filipino en la toma de decisiones según ingresos y variables monetarias.
 
 <br>
