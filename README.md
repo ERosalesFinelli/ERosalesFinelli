@@ -54,15 +54,29 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 
 <br>
 
-### 📊 Estadísticas de GitHub
+### 🎓 Formación
+
+<table align="center">
+<tr>
+<td align="center"><b>Universidad Miguel Hernández (UMH)</b><br>Grado en Data Science e Inteligencia Artificial — 3º curso</td>
+</tr>
+</table>
+
+<br>
+
+### 🧭 Cómo trabajo
+
+- Parto de los datos antes que de las suposiciones
+- Documento cada proyecto para que sea reproducible por otra persona
+- Combino la parte técnica (Python, R, SQL) con la interpretación de negocio o de dominio
+
+<br>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ERosalesFinelli&show_icons=true&theme=transparent&hide_border=true&hide=prs" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERosalesFinelli&layout=compact&theme=transparent&hide_border=true" />
-</div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ERosalesFinelli&theme=transparent&hide_border=true)
+<a href="https://linkedin.com/in/eduardo-rosales-finelli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eduardo.rosales@goumh.umh.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
