@@ -4,33 +4,33 @@
 
 </div>
 
-### 👋 Sobre mí
+### 👋 About Me
 
-Estudiante de 3º de **Data Science e Inteligencia Artificial** en la Universidad Miguel Hernández (UMH). Me interesa el análisis de datos y el machine learning aplicados a problemas reales, desde el ámbito económico hasta el deportivo.
+Third-year undergraduate student in **Data Science and Artificial Intelligence** at Miguel Hernández University (UMH). Passionate about applying data analysis and machine learning to real-world problems, ranging from macroeconomic research to sports analytics.
 
-- 🔭 Construyendo mi portfolio de proyectos de análisis de datos y ML
-- 📈 Ampliando conocimientos en Machine Learning, Deep Learning e IA Generativa
-- 💬 Pregúntame sobre Python, R, SQL o análisis de datos aplicado a negocio y deporte
-- 📫 Contacto: [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
-
-<br>
-
-### 🚀 Proyectos destacados
-
-**[Análisis de datos del Real Madrid — Etapa Arbeloa](https://github.com/ERosalesFinelli/RM-Arbeloa_Shiny)**
-Estudio de datos aplicado al fútbol, centrado en la etapa del Real Madrid bajo Álvaro Arbeloa: análisis de jugadores, disparos y partidos.
-
-**[Determinantes del Consumo en Filipinas: Modelización y Recomendaciones](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**
-Modelo de predicción del gasto familiar fundamentado en la Teoría General de Keynes, orientado a apoyar al Gobierno filipino en la toma de decisiones según ingresos y variables monetarias.
+- 🔭 Building a portfolio focused on data engineering, analytics, and machine learning projects.
+- 📈 Expanding my expertise in Machine Learning, Deep Learning, and Generative AI.
+- 💬 Ask me about Python, R, SQL, or translating complex datasets into actionable insights.
+- 📫 Contact: [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
 
 <br>
 
-### 🎓 Certificaciones
+### 🚀 Featured Projects
 
-**Machine Learning & IA**
+**[Real Madrid Analytics Dashboard — Arbeloa Era](https://github.com/ERosalesFinelli/RM-Arbeloa_Shiny)**
+Applied sports analytics study focused on Real Madrid under manager Álvaro Arbeloa, featuring real-time performance metrics, match phase analysis, and interactive data visualization.
+
+**[Household Consumption Determinants in the Philippines: Modeling & Policy Insights](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**
+Family expenditure forecasting model grounded in Keynesian economic theory, designed to support government income-transfer decision-making under high-variance economic conditions.
+
+<br>
+
+### 🎓 Certifications
+
+**Machine Learning & AI**
 - Machine Learning for Data Science Projects — *IBM SkillsBuild*
-- Introducción a la Ciencia de Datos — *Santander Open Academy / IE University*
-- IA Generativa — *Santander Open Academy / MIT Professional Education*
+- Introduction to Data Science — *Santander Open Academy / IE University*
+- Generative AI — *Santander Open Academy / MIT Professional Education*
 - AI Fundamentals — *udia*
 
 **DataCamp**
@@ -42,7 +42,7 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 
 <br>
 
-### 🛠️ Stack tecnológico
+### 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,23 +54,21 @@ Modelo de predicción del gasto familiar fundamentado en la Teoría General de K
 
 <br>
 
-
-
-### 🎓 Formación
+### 🎓 Education
 
 <table align="center">
 <tr>
-<td align="center"><b>Universidad Miguel Hernández (UMH)</b><br>Grado en Data Science e Inteligencia Artificial — 3º curso</td>
+<td align="center"><b>Miguel Hernández University (UMH)</b><br>B.Sc. in Data Science and Artificial Intelligence — 3rd Year</td>
 </tr>
 </table>
 
 <br>
 
-### 🧭 Cómo trabajo
+### 🧭 Working Philosophy
 
-- Parto de los datos antes que de las suposiciones
-- Documento cada proyecto para que sea reproducible por otra persona
-- Combino la parte técnica (Python, R, SQL) con la interpretación de negocio o de dominio
+- Ground decisions in empirical data rather than assumptions.
+- Document projects rigorously to ensure full reproducibility for other engineers.
+- Combine technical execution (Python, R, SQL) with domain-specific interpretation.
 
 <br>
 
