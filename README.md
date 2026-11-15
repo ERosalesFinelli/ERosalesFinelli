@@ -6,51 +6,31 @@
 
 ---
 
-### 👋 About Me
+### 💡 The Core Thesis
 
-Third-year undergraduate student in **Data Science and Artificial Intelligence** at Miguel Hernández University (UMH). Passionate about applying data analysis and machine learning to real-world problems, ranging from macroeconomic research to sports analytics.
+> *"In God we trust, all others must bring data."* — W. Edwards Deming
 
-- 🔭 Building a portfolio focused on data engineering, analytics, and machine learning projects.
-- 📈 Expanding my expertise in Machine Learning, Deep Learning, and Generative AI.
-- 💬 Ask me about Python, R, SQL, or translating complex datasets into actionable insights.
-- 📫 Contact: [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
+I am a third-year **Data Science & Artificial Intelligence** undergraduate at Miguel Hernández University (UMH) obsessed with one thing: **turning complex, messy real-world data into undeniable, actionable reality.** Whether I'm modeling macroeconomic stability or analyzing elite sports performance, I build systems that are rigorous, reproducible, and impactful.
+
+- 🔭 **Currently building:** Advanced data engineering pipelines and predictive analytics architectures.
+- ⚡ **Driven by:** The intersection of statistical theory, machine learning, and domain-specific storytelling.
+- 📫 **Direct line:** [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Flagship Projects *(What I Bring to the Table)*
 
 * **[Real Madrid Analytics Dashboard — Arbeloa Era](https://github.com/ERosalesFinelli/RM-Arbeloa_Shiny)**  
-  Applied sports analytics study focused on Real Madrid under manager Álvaro Arbeloa, featuring real-time performance metrics, match phase analysis, and interactive data visualization.
+  *Sports Analytics / Interactive Systems*  
+  An end-to-end analytical study breaking down tactical phases and performance metrics under manager Álvaro Arbeloa. Built with real-time tracking logic and high-impact interactive visualization.
 
-* **[Household Consumption Determinants in the Philippines: Modeling & Policy Insights](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**  
-  Family expenditure forecasting model grounded in Keynesian economic theory, designed to support government income-transfer decision-making under high-variance economic conditions.
-
----
-
-### 🎓 Certifications
-
-<details>
-<summary><b>🤖 Machine Learning & AI</b> (Click para expandir)</summary>
-
-* **Machine Learning for Data Science Projects** — *IBM SkillsBuild*
-* **Introduction to Data Science** — *Santander Open Academy / IE University*
-* **Generative AI** — *Santander Open Academy / MIT Professional Education*
-* **AI Fundamentals** — *udia*
-
-</details>
-
-<details>
-<summary><b>📊 DataCamp Tracks & Courses</b> (Click para expandir)</summary>
-
-* **AI & Machine Learning:** Understanding AI · Understanding Machine Learning · AI Ethics · Generative AI Concepts · LLMs Concepts · Understanding Prompt Engineering
-* **Applications & APIs:** Introduction to ChatGPT · Intermediate ChatGPT · Working with the OpenAI API · Generative AI for Business · Implementing AI Solutions in Business
-* **Core Languages:** Introduction to Python · Introduction to R · Intermediate R · Introduction to SQL
-
-</details>
+* **[Household Consumption Determinants in the Philippines](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**  
+  *Econometric Modeling / Decision Support*  
+  A robust expenditure forecasting model grounded in Keynesian economic theory. Designed explicitly to simulate and support high-stakes government income-transfer strategies under high-variance economic friction.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Tech Stack
 
 <div align="center">
 
@@ -64,23 +44,39 @@ Third-year undergraduate student in **Data Science and Artificial Intelligence**
 
 ---
 
-### 🎓 Education
+### 🎓 Credentials & Continuous Growth
 
-<div align="center">
+<details>
+<summary><b>🤖 Machine Learning & AI Specializations</b> (Expand)</summary>
 
-| Institution | Degree | Status |
-| :--- | :--- | :--- |
-| **Miguel Hernández University (UMH)** | B.Sc. in Data Science and Artificial Intelligence | 3rd Year |
+* **Machine Learning for Data Science Projects** — *IBM SkillsBuild*
+* **Introduction to Data Science** — *Santander Open Academy / IE University*
+* **Generative AI** — *Santander Open Academy / MIT Professional Education*
+* **AI Fundamentals** — *udia*
 
-</div>
+</details>
+
+<details>
+<summary><b>📊 DataCamp Mastery Track</b> (Expand)</summary>
+
+* **AI & LLMs:** AI Ethics, Generative AI Concepts, LLMs Concepts, Prompt Engineering, ChatGPT APIs & Business Solutions.
+* **Core Competencies:** Advanced Python, Intermediate R, SQL, and Machine Learning Foundations.
+
+</details>
 
 ---
 
-### 🧭 Working Philosophy
+### 🧭 Engineering Philosophy
 
-- Ground decisions in empirical data rather than assumptions.
-- Document projects rigorously to ensure full reproducibility for other engineers.
-- Combine technical execution (Python, R, SQL) with domain-specific interpretation.
+1. **Zero Black Boxes:** If an algorithm or model cannot be interpreted or justified theoretically, it shouldn't be deployed.
+2. **Absolute Reproducibility:** Clean code, rigorous documentation, and structured repositories (`.qmd`, modular scripts).
+3. **Domain Fluency:** Code without context is just noise; I bridge the gap between pure tech and economic/behavioral reality.
+
+<br>
+
+<div align="center">
+<sub>Let's build something exceptional. Reach out at <a href="https://linkedin.com/in/eduardo-rosales-finelli">LinkedIn</a>.</sub>
+</div>
 <div align="center">
 
 <a href="https://linkedin.com/in/eduardo-rosales-finelli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
