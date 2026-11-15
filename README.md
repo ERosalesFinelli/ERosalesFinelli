@@ -6,31 +6,31 @@
 
 ---
 
-### 💡 The Core Thesis
+### ⚡ Executive Summary
 
-> *"In God we trust, all others must bring data."* — W. Edwards Deming
+Third-year **Data Science & AI** undergraduate at Miguel Hernández University (UMH). I operate at the intersection of rigorous statistical modeling, robust software engineering, and high-stakes decision intelligence. 
 
-I am a third-year **Data Science & Artificial Intelligence** undergraduate at Miguel Hernández University (UMH) obsessed with one thing: **turning complex, messy real-world data into undeniable, actionable reality.** Whether I'm modeling macroeconomic stability or analyzing elite sports performance, I build systems that are rigorous, reproducible, and impactful.
+I don't just train models; I engineer end-to-end analytical systems designed to withstand real-world friction—from macroeconomic forecasting to elite sports performance analytics.
 
-- 🔭 **Currently building:** Advanced data engineering pipelines and predictive analytics architectures.
-- ⚡ **Driven by:** The intersection of statistical theory, machine learning, and domain-specific storytelling.
-- 📫 **Direct line:** [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
+- **Focus:** Predictive Modeling, Data Architecture, and Applied Machine Learning.
+- **Approach:** Mathematical rigor paired with clean, production-grade code and uncompromising reproducibility.
+- **Network:** [LinkedIn](https://linkedin.com/in/eduardo-rosales-finelli)
 
 ---
 
-### 🚀 Flagship Projects *(What I Bring to the Table)*
+### 🏛️ High-Impact Architecture & Case Studies
 
 * **[Real Madrid Analytics Dashboard — Arbeloa Era](https://github.com/ERosalesFinelli/RM-Arbeloa_Shiny)**  
-  *Sports Analytics / Interactive Systems*  
-  An end-to-end analytical study breaking down tactical phases and performance metrics under manager Álvaro Arbeloa. Built with real-time tracking logic and high-impact interactive visualization.
+  *Domain: Sports Intelligence & Interactive Systems*  
+  Developed an advanced analytical framework assessing tactical performance and match-phase dynamics under manager Álvaro Arbeloa. Features low-latency data pipelines, custom metrics, and interactive visualization tailored for tactical decision-making.
 
 * **[Household Consumption Determinants in the Philippines](https://github.com/ERosalesFinelli/Filipinas-Modelo_Consumo)**  
-  *Econometric Modeling / Decision Support*  
-  A robust expenditure forecasting model grounded in Keynesian economic theory. Designed explicitly to simulate and support high-stakes government income-transfer strategies under high-variance economic friction.
+  *Domain: Econometric Modeling & Predictive Policy*  
+  Engineered a robust expenditure forecasting engine grounded in Keynesian economic frameworks. Built to simulate and stress-test public income-transfer policies under volatile economic conditions.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -44,10 +44,10 @@ I am a third-year **Data Science & Artificial Intelligence** undergraduate at Mi
 
 ---
 
-### 🎓 Credentials & Continuous Growth
+### 📜 Certifications & Specialized Training
 
 <details>
-<summary><b>🤖 Machine Learning & AI Specializations</b> (Expand)</summary>
+<summary><b>🤖 Machine Learning & AI Engineering</b></summary>
 
 * **Machine Learning for Data Science Projects** — *IBM SkillsBuild*
 * **Introduction to Data Science** — *Santander Open Academy / IE University*
@@ -57,31 +57,23 @@ I am a third-year **Data Science & Artificial Intelligence** undergraduate at Mi
 </details>
 
 <details>
-<summary><b>📊 DataCamp Mastery Track</b> (Expand)</summary>
+<summary><b>📊 DataCamp Advanced Track</b></summary>
 
-* **AI & LLMs:** AI Ethics, Generative AI Concepts, LLMs Concepts, Prompt Engineering, ChatGPT APIs & Business Solutions.
-* **Core Competencies:** Advanced Python, Intermediate R, SQL, and Machine Learning Foundations.
+* **AI Systems & LLMs:** AI Ethics, Generative AI Concepts, LLM Architectures, Prompt Engineering, ChatGPT API Integration, and Enterprise AI Implementation.
+* **Core Languages & Data Ops:** Advanced Python, Intermediate R, SQL Database Management, and Machine Learning Foundations.
 
 </details>
 
 ---
 
-### 🧭 Engineering Philosophy
+### 📐 Engineering Principles
 
-1. **Zero Black Boxes:** If an algorithm or model cannot be interpreted or justified theoretically, it shouldn't be deployed.
-2. **Absolute Reproducibility:** Clean code, rigorous documentation, and structured repositories (`.qmd`, modular scripts).
-3. **Domain Fluency:** Code without context is just noise; I bridge the gap between pure tech and economic/behavioral reality.
+1. **Theoretical Clarity:** No black-box deployment without deep statistical justification and explainability.
+2. **Strict Reproducibility:** Modular architecture, clean version control, and comprehensive documentation (`.qmd`, structured scripts).
+3. **Domain Translation:** Mathematical models are meaningless without a deep understanding of the underlying business or economic reality.
 
 <br>
 
 <div align="center">
-<sub>Let's build something exceptional. Reach out at <a href="https://linkedin.com/in/eduardo-rosales-finelli">LinkedIn</a>.</sub>
+<sub>Let's build something exceptional. Connect via <a href="https://linkedin.com/in/eduardo-rosales-finelli">LinkedIn</a>.</sub>
 </div>
-<div align="center">
-
-<a href="https://linkedin.com/in/eduardo-rosales-finelli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eduardo.rosales@goumh.umh.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
